@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Llanamos la Mochila</string>
+    <string name="lblContenido">Contenido:</string>
+    <string name="chkGorras">Gorras</string>
+    <string name="chkBanyadores">Bañadores</string>
+    <string name="chkCamisas">Camisas</string>
+    <string name="chkBotines">Botines</string>
+    <string name="chkChanclas">Chanclas</string>
+    <string name="chkPantalones">Pantalones</string>
+    <string name="lblPeso">Peso:</string>
+    <string name="btnBorrar">BORRAR</string>
+</resources>
