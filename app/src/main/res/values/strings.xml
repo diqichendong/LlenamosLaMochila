@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Llanamos la Mochila</string>
+    <string name="app_name">Llenamos la Mochila</string>
     <string name="lblContenido">Contenido:</string>
     <string name="chkGorras">Gorras</string>
     <string name="chkBanyadores">Bañadores</string>
